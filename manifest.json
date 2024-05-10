@@ -1,7 +1,7 @@
 {
 	"name": "Copy Cookies",
 	"description" : "Copy cookies to clipboard",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"manifest_version": 3,
 	"action": {
 		"default_popup": "popup.html"
